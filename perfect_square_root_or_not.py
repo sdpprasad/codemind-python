@@ -1,7 +1,8 @@
 import math
 n=int(input())
-b=round(math.sqrt(n),2)
-if b*b==n:
+i=round(math.sqrt(n),2)
+if i*i==n:
     print(True)
 else:
     print(False)
+    
