@@ -9,7 +9,6 @@ def prime(num):
         
             return True
 
-
 n=int(input())
 m=int(input())
 c=0
